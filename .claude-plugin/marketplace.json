@@ -9,12 +9,12 @@
   "plugins": [
     {
       "name": "forge",
-      "version": "1.6.1",
+      "version": "1.7.1",
       "description": "FORGE — governação do fluxo de engenharia com IA",
       "source": {
         "source": "archive",
-        "url": "https://github.com/paulojjardim/forge-releases/releases/download/forge-v1.6.1/forge-plugin-1.6.1.zip",
-        "sha256": "ebc54dee67af75485db5b613cb5856fe6a6bdb8de00a9447eac88763c5ec0c9c"
+        "url": "https://github.com/paulojjardim/forge-releases/releases/download/forge-v1.7.1/forge-plugin-1.7.1.zip",
+        "sha256": "212f854cee168e73e55fd4f143d23ed46a79190763a4882a51b4b80c2bf59f82"
       }
     }
   ]
